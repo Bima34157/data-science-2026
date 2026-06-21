@@ -12,25 +12,24 @@ Perkenalkan saya Zaldi Bima Aditya. Saya mahasiswa aktif di Universitas Siber As
 
 # List Notebook
 1. Pertemuan 1 - Pengenalan Data Science
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan1_Deni_Widi_Alfian_240401010340.ipynb
+   Link : 
    
 2. Pertemuan 2 - Struktur Data Python, NumPy & Pandas
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan2_Deni_Widi_Alfian_240401010340.ipynb
+   Link : 
 
 3. Pertemuan 3 - Data Cleaning: Missing, Outlier & Ekstraksi
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan3_Deni_Widi_Alfian_240401010340.ipynb
+   Link : 
    
 4. Pertemuan 4 - Statistika Dasar & Analisis Data
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan4_Deni_Widi_Alfian_240401010340.ipynb
-
+   Link : 
 5. Pertemuan 5 - Visualisasi Data
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan5_Deni_Widi_Alfian_240401010340.ipynb
+   Link : 
 
 6. Pertemuan 6 - Persiapan Data
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan6_Deni_Widi_Alfian_240401010340.ipynb
+   Link : 
 
 7. Pertemuan 7 - Pengantar Machine Learning: Regresi Linier
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan7_Deni_Widi_Alfian_240401010340.ipynb
+   Link : 
 
 --------------------------------------------------------
 
